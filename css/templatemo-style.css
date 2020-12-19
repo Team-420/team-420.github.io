@@ -274,9 +274,7 @@ h1,h2,h3,h4,h5
         } 
       }
       .card-dev{
-          visibility: visible;
-          animation-delay: 0.8s;
-          animation-name: fadeIn;
+          visibility: visible !important;
           padding: 10px;
           background: #4444;
           border-radius: 50px;
