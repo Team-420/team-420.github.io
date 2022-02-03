@@ -283,6 +283,7 @@ h1,h2,h3,h4,h5
           box-shadow: 2px 1px 6px 2px #D43F52;
           width: 15%;
           margin: 9px;
+          display: inline-table;
       }
 
 
